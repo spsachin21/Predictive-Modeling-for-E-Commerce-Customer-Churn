@@ -1,5 +1,5 @@
 # Predictive-Modeling-for-E-Commerce-Customer-Churn
-Aim: proactive customer retention
+Aim: proactive customer retention\\
 Brief Overview: Customer churn prediction project using ML models (Logistic Regression, Decision Tree, Random Forest, XGBoost). Includes data preprocessing, feature engineering, hyperparameter tuning. XGBoost achieved high Recall, PR AUC, and F1 Score. SHAP analysis explains key churn drivers. 
 
 This project demonstrates the process of predicting customer churn using various machine learning techniques. Customer churn, or attrition, is a critical metric for businesses as retaining existing customers is often more cost-effective than acquiring new ones. By building a predictive model, businesses can proactively identify customers at risk of churning and implement targeted retention strategies.
